@@ -1,0 +1,19 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "lambda school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irasanchez/Sorting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irasanchez/Sorting/issues"
+  },
+  "homepage": "https://github.com/irasanchez/Sorting#readme"
+}
